@@ -1,0 +1,9 @@
+Building OwlCoin
+
+See doc/readme-qt.rst for instructions on building owlcoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of OwlCoin.
+
+See doc/build-*.txt for instructions on building owlcoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of OwlCoin.
