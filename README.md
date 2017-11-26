@@ -1,4 +1,4 @@
-OwlCoin (CRD)
+OwlCoin (OWL)
 ===========
 
 
